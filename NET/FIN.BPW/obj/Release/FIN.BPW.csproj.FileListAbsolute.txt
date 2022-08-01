@@ -1,0 +1,13 @@
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\FIN.BPW.dll
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\FIN.BPW.pdb
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\FIN.Model.dll
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\JWT.dll
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\Newtonsoft.Json.dll
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\FIN.Model.pdb
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\JWT.pdb
+E:\www\NET\Kingdee\NET\FIN.BPW\bin\Release\JWT.xml
+E:\www\NET\Kingdee\NET\FIN.BPW\obj\Release\FIN.BPW.csproj.AssemblyReference.cache
+E:\www\NET\Kingdee\NET\FIN.BPW\obj\Release\FIN.BPW.csproj.CoreCompileInputs.cache
+E:\www\NET\Kingdee\NET\FIN.BPW\obj\Release\FIN.BPW.csproj.CopyComplete
+E:\www\NET\Kingdee\NET\FIN.BPW\obj\Release\FIN.BPW.dll
+E:\www\NET\Kingdee\NET\FIN.BPW\obj\Release\FIN.BPW.pdb

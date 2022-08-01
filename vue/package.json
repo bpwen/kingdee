@@ -1,0 +1,17 @@
+{
+    "id": "QS-tabs-wxs-list",
+    "name": "QS-tabs-wxs-list Vue版",
+    "version": "3.2",
+    "description": "tabs+list的终极解决方案， 使用wxs实现tab线条效果与下拉刷新，并集成list",
+    "keywords": [
+        "tabs",
+        "list",
+        "选项卡",
+        "分类",
+        "列表"
+    ],
+    "dependencies": {
+        "uni-read-pages": "^1.0.5",
+        "uni-simple-router": "^2.0.7"
+    }
+}

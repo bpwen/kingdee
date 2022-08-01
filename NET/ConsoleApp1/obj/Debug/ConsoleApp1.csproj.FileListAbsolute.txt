@@ -1,0 +1,10 @@
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\bin\Debug\Kingdee.BOS.WebApi.Client.dll
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\www\NET\Kingdee\FIN.Web\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache

@@ -1,0 +1,72 @@
+/*uni-app map 地图用*/
+.uni-system-choose-location{
+	.menu{
+		top: 70% !important;
+	}
+	.map{
+		height: 76% !important;
+	}
+}
+
+/* 多文本框 placeholder 超出第2行让它显示 */
+uni-textarea{
+    height: initial;
+}
+
+/*
+uview-ui 表单 标题在头部加粗改变颜色
+*/
+/deep/.u-form-item{
+    .u-form-item__body[style="flex-direction: column;"]{
+        .u-form-item--left__content__label{
+            color: #5b5d60;
+        }
+    }
+    //表单错误文职无padding-left间距让它
+    .u-form-item__message{
+        padding-left: 0px !important;
+    }
+}
+
+/*uni app 原生头部导航条样式*/
+/* #ifdef H5 */
+.uni-page-head .uni-page-head__title{
+	font-weight: initial;
+}
+// .uni-page-head:after{
+//     content: ' ';
+//     position: absolute;
+//     left: 0;
+//     top: 0;
+//     pointer-events: none;
+//     box-sizing: border-box;
+//     -webkit-transform-origin: 0 0;
+//     transform-origin: 0 0;
+//     width: 199.8%;
+//     height: 199.7%;
+//     -webkit-transform: scale(0.5, 0.5);
+//     transform: scale(0.5, 0.5);
+//     border: 0 solid #e4e7ed;
+//     z-index: 2;
+// 	border-bottom-width: 1px;
+// }
+/* #endif */
+
+/* #ifdef H5 */
+/*
+列表添加 删除 加载过渡动画效果
+*/
+.v-enter,.v-leave-to {
+    opacity: 0;
+    transform: translateY(80px);
+}
+.v-enter-active,.v-leave-active {
+    transition: all 0.6s ease;
+}
+.v-move {
+    transition: all 0.6s ease;
+}
+.v-leave-active {
+    position: absolute;
+}
+/* #endif */

@@ -1,0 +1,101 @@
+{
+	"easycom": {
+		"^app-(.*)": "@/app-ui/app-$1/app-$1.vue",
+		"^bpw-(.*)": "@/bpw-ui/components/bpw-$1/bpw-$1.vue",
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+        {
+			"path": "pages/index/index",
+			"name":"index",
+            "style": {
+				"navigationBarTitleText": "首页"
+			},
+			"meta": {
+				"perms": [],
+				"title": "首页",
+				"noCache": true
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+                "navigationBarBackgroundColor": "#ffffff",
+                "titleNView": {
+                    "splitLine": {
+                        "color":"#ffffff"
+                    }
+                }
+			},
+			"name":"login",
+			"meta": {
+				"perms": [],
+				"title": "登录",
+				"noCache": false
+			}
+		},
+        {
+			"path": "pages/customer/index",
+			"name":"customer",
+            "style": {
+				"navigationBarTitleText": "客户"
+			},
+			"meta": {
+				"perms": [],
+				"title": "客户",
+				"noCache": true
+			}
+		},
+        {
+			"path": "pages/bluetooth/index",
+			"name":"bluetooth",
+            "style": {
+				"navigationBarTitleText": "蓝牙"
+			},
+			"meta": {
+				"perms": [],
+				"title": "蓝牙"
+			}
+		},
+        {
+			"path": "pages/outboundOrder/index",
+			"name":"outboundOrder",
+            "style": {
+				"navigationBarTitleText": "销售出库单"
+			},
+			"meta": {
+				"perms": [],
+				"title": "销售出库单"
+			}
+		}
+    ],
+	"globalStyle": {
+		//https://uniapp.dcloud.io/collocation/pages?id=leftwindow
+		"navigationBarTextStyle": "black",// 状态栏字体为白色，只能为 white-白色，black-黑色 二选一
+		"navigationBarBackgroundColor": "#f9f9f9",//导航栏背景颜色（同状态栏背景色）
+		"backgroundColor": "#fbf9fe",//窗口的背景色
+		"navigationStyle": "default",// 是否隐藏系统导航栏 default 默认显示 、custom 隐藏
+		"onReachBottomDistance": 55,//页面上拉触底事件触发时距页面底部距离，单位只支持px
+		"app-plus": {
+			"animationType": "slide-in-right",
+			"animationDuration": 300,
+			"titleNView": {
+				"titleColor":"#606266",
+				"titleSize":"17px",
+				"splitLine": {
+					"color":"#e4e7ed"
+				}
+			}
+		}
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

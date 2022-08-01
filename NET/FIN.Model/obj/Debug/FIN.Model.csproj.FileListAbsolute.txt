@@ -1,0 +1,5 @@
+E:\www\NET\Kingdee\NET\FIN.Model\bin\Debug\FIN.Model.dll
+E:\www\NET\Kingdee\NET\FIN.Model\bin\Debug\FIN.Model.pdb
+E:\www\NET\Kingdee\NET\FIN.Model\obj\Debug\FIN.Model.csproj.CoreCompileInputs.cache
+E:\www\NET\Kingdee\NET\FIN.Model\obj\Debug\FIN.Model.dll
+E:\www\NET\Kingdee\NET\FIN.Model\obj\Debug\FIN.Model.pdb

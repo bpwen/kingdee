@@ -1,0 +1,17 @@
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.API.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.API.pdb
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.BPW.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.Model.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\JWT.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\Kingdee.BOS.WebApi.Client.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\Newtonsoft.Json.dll
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.BPW.pdb
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\FIN.Model.pdb
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\JWT.pdb
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\JWT.xml
+E:\www\NET\Kingdee\NET\FIN.API\bin\Release\Newtonsoft.Json.xml
+E:\www\NET\Kingdee\NET\FIN.API\obj\Release\FIN.API.csproj.AssemblyReference.cache
+E:\www\NET\Kingdee\NET\FIN.API\obj\Release\FIN.API.csproj.CoreCompileInputs.cache
+E:\www\NET\Kingdee\NET\FIN.API\obj\Release\FIN.API.csproj.CopyComplete
+E:\www\NET\Kingdee\NET\FIN.API\obj\Release\FIN.API.dll
+E:\www\NET\Kingdee\NET\FIN.API\obj\Release\FIN.API.pdb
